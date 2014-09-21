@@ -1,0 +1,12 @@
+name: ModTracker
+main: io.github.jisaacs1207.modtracker.ModTracker
+version: 1.0
+author: jisaacs1207
+website: http://fivekingdoms.net
+depend: [Vault]
+description: >
+             Anita's stupid plugin.
+            
+commands:
+   mt:
+      description: Snoop some mod-monkeys.
